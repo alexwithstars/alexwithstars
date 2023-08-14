@@ -1,7 +1,23 @@
-<h1 align="center">✧.* Hi everyone*.✧</h1>
+<h1 align="center">✧.* Hi everyone *.✧</h1>
 <div align="center">
   <img src="assets/images/star-logo-rounded.png" alt="se calló :(" height="200px">
 </div>
+
+### My name is Alex!
+
+#### My languages
+I know:
+- Javascript
+- C++
+- Python
+- Typescript
+  
+<br>
+
+I'm learning:
+- Bash
+- Sql
+- And all the above, we never stop learning!
 
 ### These are my projects
 - <a href="https://alexwithstars.github.io/pages/snipps/">Snippets generator for visual studio code</a>
