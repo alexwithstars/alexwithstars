@@ -1,4 +1,7 @@
-<h1 align="center">✧.* Hi *.✧</h1>
+<h1 align="center">✧.* Hi everyone*.✧</h1>
+<div align="center">
+  <img src="assets/images/star-logo-rounded.png" alt="se calló :(" height="200px">
+</div>
 
 ### These are my projects
 - <a href="https://alexwithstars.github.io/pages/snipps/">Snippets generator for visual studio code</a>
@@ -10,6 +13,8 @@
 
 <div align="center">
   <img src="assets/images/coding.gif" alt="se calló :(" height="200px"><img src="assets/images/LoveCat.gif" alt="se calló :(" height="200px">
+  <br><br>
+  <p>Have a good day :3 ❤️</p>
 </div>
 <!-- <img src="assets/images/bongo.gif" alt="se calló :(" height="200px"> -->
 
