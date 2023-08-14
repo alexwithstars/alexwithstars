@@ -1,4 +1,4 @@
-# ✧.* Hi *.✧
+<h1 align="center">✧.* Hi *.✧</h1>
 
 ### These are my projects
 - <a href="https://alexwithstars.github.io/pages/snipps/">Snippets generator for visual studio code</a>
@@ -7,7 +7,10 @@
 - <a href="https://github.com/alexwithstars/Unique-Tools">Uncompleted python module</a>
 
 ---
-<img src="assets/images/coding.gif" alt="se calló :(" height="200px"><img src="assets/images/LoveCat.gif" alt="se calló :(" height="200px">
+
+<div align="center">
+  <img src="assets/images/coding.gif" alt="se calló :(" height="200px"><img src="assets/images/LoveCat.gif" alt="se calló :(" height="200px">
+</div>
 <!-- <img src="assets/images/bongo.gif" alt="se calló :(" height="200px"> -->
 
 <!---
