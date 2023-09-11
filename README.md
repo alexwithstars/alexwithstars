@@ -5,18 +5,20 @@
 
 ### My name is Alex!
 
-#### My languages
+#### My languages technologies and frameworks
 I know:
 - Javascript
 - C++
 - Python
 - Typescript
+- Batch
   
 <br>
 
 I'm learning:
 - Bash
 - Sql
+- Git
 - And all the above, we never stop learning!
 
 ### These are my projects
