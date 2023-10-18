@@ -12,13 +12,14 @@ I know:
 - Python
 - Typescript
 - Batch
+- Sql
   
 <br>
 
 I'm learning:
 - Bash
-- Sql
 - Git
+- Node.js
 - And all the above, we never stop learning!
 
 ### These are my projects
