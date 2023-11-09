@@ -20,7 +20,6 @@ I know:
 I'm learning:
 - Bash
 - Git
-
 - And all the above, we never stop learning!
 
 ### These are my projects
