@@ -13,13 +13,14 @@ I know:
 - Typescript
 - Batch
 - Sql
+- Node.js
   
 <br>
 
 I'm learning:
 - Bash
 - Git
-- Node.js
+
 - And all the above, we never stop learning!
 
 ### These are my projects
