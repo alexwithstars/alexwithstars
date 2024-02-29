@@ -5,7 +5,7 @@
 
 ### My name is Alex!
 
-#### My languages technologies and frameworks
+#### My languages, technologies and frameworks
 I know:
 - Javascript
 - C++
@@ -25,8 +25,8 @@ I'm learning:
 
 ### These are my projects
 - <a href="https://alexwithstars.github.io/pages/snipps/">Snippets generator for visual studio code</a>
-- <a href="https://alexwithstars.github.io/pages/ter/">Tik tac toe game</a>
-- <a href="https://alexwithstars.github.io/minesweeper/">minesweeper</a>
+- <a href="https://alexwithstars.github.io/pages/ter/">Tic tac toe game</a>
+- <a href="https://alexwithstars.github.io/minesweeper/">Minesweeper</a>
 - <a href="https://alexwithstars.github.io/pages/protocrypt/">A prototype to encrypt users</a>
 - <a href="https://alexwithstars.github.io/pages/audi/">My first landing page</a>
 - <a href="https://github.com/alexwithstars/Unique-Tools">Uncompleted python module</a>
