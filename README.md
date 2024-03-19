@@ -21,6 +21,7 @@ I'm learning:
 - Bash
 - Git
 - React
+- React native
 - And all the above, we never stop learning!
 
 ### These are my projects
@@ -29,7 +30,8 @@ I'm learning:
 - <a href="https://alexwithstars.github.io/minesweeper/">Minesweeper</a>
 - <a href="https://alexwithstars.github.io/pages/protocrypt/">A prototype to encrypt users</a>
 - <a href="https://alexwithstars.github.io/pages/audi/">My first landing page</a>
-- <a href="https://github.com/alexwithstars/Unique-Tools">Uncompleted python module</a>
+- <a href="https://github.com/alexwithstars/TokioApp">My first react proyect</a>
+- <a href="https://github.com/alexwithstars/Unique-Tools">Tools for py</a>
 <!-- - <a href="https://nodemovies-dev-xzxj.2.us-1.fl0.io/view/home">A movie app inspired by @[midudev](https://github.com/midudev)</a> -->
 
 ---
