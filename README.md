@@ -23,10 +23,11 @@ You can click the Preview link to take a look at your changes.
 - <a href="https://alexwithstars.github.io/pages/snipps/">Snippets generator for visual studio code 💻 </a>
 - <a href="https://alexwithstars.github.io/pages/ter/">Tic tac toe game ❌/🔵 </a>
 - <a href="https://alexwithstars.github.io/minesweeper/">Minesweeper 💣 </a>
+- <a href="https://alexwithstars.github.io/memory/">Memory game 🧠 </a>
 - <a href="https://alexwithstars.github.io/pages/protocrypt/">A prototype to encrypt users 🔑 </a>
 - <a href="https://alexwithstars.github.io/pages/audi/">My first landing page 🚗 </a>
 - <a href="https://alexwithstars.github.io/TokioApp/">My first react proyect 🏯 </a>
-- <a href="https://alexwithstars.github.io/f1stats/">F1 stats with react 🏎️</a>
+- <a href="https://vercel.f1stats.app/">F1 stats with react 🏎️ </a>
 - <a href="https://github.com/alexwithstars/Unique-Tools">Tools for py 🧰 </a>
 <!-- - <a href="https://nodemovies-dev-xzxj.2.us-1.fl0.io/view/home">A movie app inspired by @[midudev](https://github.com/midudev)</a> -->
 <br>
