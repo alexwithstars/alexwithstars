@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 # 📂 My featured projects
 - <a href="https://alexwithstars.github.io/pages/snipps/">Snippets generator for visual studio code 💻 </a>
-- <a href="https://statsf1.verce.app">F1 stats with react 🏎️ </a>
+- <a href="https://statsf1.vercel.app">F1 stats with react 🏎️ </a>
 - <a href="https://alexwithstars.github.io/pages/ter/">Tic tac toe game ❌/🔵 </a>
 - <a href="https://alexwithstars.github.io/minesweeper/">Minesweeper 💣 </a>
 - <a href="https://alexwithstars.github.io/memory/">Memory game 🧠 </a>
