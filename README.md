@@ -33,10 +33,6 @@ You can click the Preview link to take a look at your changes.
 <!-- - <a href="https://nodemovies-dev-xzxj.2.us-1.fl0.io/view/home">A movie app inspired by @[midudev](https://github.com/midudev)</a> -->
 <br>
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex_with_stars) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alex_with_stars) 
-<br>
-
 # ✍️ Random Dev Quote
 <div align='center'>
   <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark'>
