@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 - <a href="https://vsnippet.vercel.app">Snippets generator for VSCode with react (v2 - 07/2024) 💻 </a>
 - <a href="https://statsf1.vercel.app">F1 stats with react 🏎️ </a>
 - <a href="https://alexwithstars.github.io/pages/snipps/">old Snippets generator for VSCode (v1 - 08/2023) 👴 </a>
-- <a href="https://node-movies.vercel.app/view/home">A movie app and my first backend inspired by @[midudev](https://github.com/midudev) 🎥</a>
+- <a href="https://alexmovies.vercel.app/view/home">A movie app and my first backend inspired by @[midudev](https://github.com/midudev) 🎥</a>
 - <a href="https://alexwithstars.github.io/pages/ter/">Tic tac toe game ❌/🔵 </a>
 - <a href="https://alexwithstars.github.io/minesweeper/">Minesweeper 💣 </a>
 - <a href="https://alexwithstars.github.io/memory/">Memory game 🧠 </a>
